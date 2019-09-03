@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Fonts/MyFont.spritefont</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/background.jpg</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_blue.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_cyan.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_green.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_orange.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_purple.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_red.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_white.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/block_yellow.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/deathanimation.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/donekindof.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/end_flag_96x96.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/ground_320x96.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/ground_96x37.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/jumpanimation.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/Logo_820.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/lose.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/Nextboxbg.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/runanimation.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/skip1.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/skip2.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/skip3.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/skipboard.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/start_96x96.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/StartingArea.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/titleScreen.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/win.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Images/winanimation.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/menu/button_exit.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/menu/button_outline.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/menu/button_restart.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/menu/button_resume.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/menu/button_start.png</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/Music/Gameplay.mp3</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/Music/Main Menu Music.mp3</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/SFX/Line_Completed.wav</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/SFX/Player_Defeat.wav</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/SFX/Player_Jump_A.wav</File>
+    <File>C:/Users/u1274867/Downloads/Line-Climber-animation-developing/Content/Sound/SFX/Player_Victory.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
